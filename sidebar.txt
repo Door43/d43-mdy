@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mdy:home|Door43 (mdy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mdy|d43-mdy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mdy/archive/master.zip|d43-mdy.zip]]
+
+**Recent Changes**
+{{changes>ns = mdy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mdy|Ethnologue data]]
+

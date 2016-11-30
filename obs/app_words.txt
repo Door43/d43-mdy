@@ -1,25 +1,25 @@
 //Translation for the unfoldingWord mobile app interface//
 
-//በሞባይል ቴሌፎን ጥቅም ላይ የሚውል የተገለጠው ቃል ትርጉም //
+//ሞባይሌ ሲልኬይዳ ማዾይዳ ፔኤቃ ዛጲባኣያ ማዔ ቃኣሎኮ ቡሊሢ//
 
-Select a language: ቋንቋ ምረጥ
+Select a language: ሙኡጮ ዶኦሬ
 
-Chapters: ምዕራፎች
+Chapters: ዓይፆ
 
-Languages: ቋንቋዎች
+Languages: ሙኡጮ
 
-Next chapter : የሚቀጥለው ምዕራፍ
+Next chapter : ሄሊ ሙካ ዓይፆ
 
-OK : ይሁን
+OK : ያዺ ማዖንጎ
 
-Cancel : ይሰረዝ
+Cancel : ባይዜ
 
-Save locally : በአካባቢህ ይቀመጥ
+Save locally : ኔ ኮዓ ቤዛ ዴዖንጎ
 
-Save this string: ይህን ስትሪንግ አስቀምጠው
+Save this string: ሃኖ እስትሪንጌሎ ዴዓንዳጉዲ ጌሤ
 
-Save this language locally for offline use: ኢንተርኔት ሳይኖር ለመጠቀም ይህን ቋንቋ በአካባቢህ አስቀምጠው
+Save this language locally for offline use: ዒንቴርኔቴ ባኣንቴያ ማዾይዳ ፔኤሻኒ ሃኖ ሙኡጮ ኔ ኮዓ ቤዛ ጌሤ
 
-Remove locally : ከአካባቢህ አስወግደው
+Remove locally : ኔ ኮዓ ቤዛፓ ሺኢሼ
 
-Remove this string: ኢንተርኔት ሳይኖር ከምትጠቀምበት ማስቀመጫ ይህን ቋንቋ አስወግደው። ለወደፊቱ ልትጠቀምበት ከፈለግህ የኢንተርኔት መስመር ሊኖርህ ይገባል።
+Remove this string: ዒንቴርኔታ ባኣንቴ ኔኤኒ ማዾይዳ ፔኤሻኒ ጌሤ ቤዛፓ ሃኖ ሙኡጮ ባይዜ። ሴካ ቤርታ ኔኤኒ ዔኪ ማኣዲንታኒ ኮዔቴ ዒንቴርኔቴ ፓይዲ ኔኤኮ ዓኣያ ማዓኒኮይሳኔ።
